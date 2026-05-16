@@ -1,0 +1,115 @@
+body{
+    background-color: #141414;
+
+}
+
+.lupa{
+    width: 20px;
+}
+
+.notif{
+    width: 20px;
+}
+
+.botoes{
+    padding: 10px;
+   justify-content: space-between;
+   border-radius: 5px;
+   font-family: Arial, Helvetica, sans-serif;
+   font-style: none;
+   color: white;
+   border: 10px;
+   background-color: #141414;
+   border-color: white;
+   border: 100px;
+}
+
+nav{
+    display: flex;
+    justify-content: space-around;
+    font-display: none;
+
+}
+
+.img{
+    height: 700px;
+    background-image: url(fundo.png);
+    background-size: 100%;
+
+}
+h1{
+    margin: none;
+    display:inline-flex;
+    color: white;
+}
+
+fundo{
+    height: 100px;
+}
+
+.textos{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+ font-family: monospace;
+ font-style: normal;
+    color: #999999;
+    margin-top: 615px;
+    margin-left: 100px;
+}
+
+.comece{
+    margin-left: 700px;
+    height: 50px;
+    cursor: pointer;
+}
+
+h2{
+    margin: none;
+    display:inline-flex;
+    color: white;
+    margin-top: 150px;
+    margin-left: 50px;
+}
+
+.texto2{
+    margin-left: 100px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    color: #999999;
+}
+.page2{
+    margin-left: 100px;
+    font-style: normal;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #999999;
+}
+
+.seta{
+    height: 80px;
+}
+
+.text{
+    display: flex;
+}
+
+.test2{
+    height: 200px;
+}
+
+.imagens{
+    margin-left: 100px;
+}
+
+.conteudo{
+    
+    color: white;
+        background-color: #262626 ;
+    border-radius: 10px;
+    padding: 20px;
+}
+
+.setinha{
+    height: 15px;
+}
